@@ -1,8 +1,6 @@
-# NLP-Spec
-Deep Learning AI NLP Specialization unoficial repository.
+# CS224N
+Natural Language Processing with Deep Learning.
 
-<img src="https://learn.deeplearning.ai/assets/dlai-logo-square.png" width=20%><br>
+<img src="https://identity.stanford.edu/wp-content/uploads/sites/3/2020/07/block-s-right.png" width=20%><br>
 
-Okay, so I decided to take this specialization before my Transformers sprint, so that I understand the basics of NLP first.<br>
-This repository contains code for awesome concepts and ideas I find in this course.<br>
-This is basically it!<br>
+Implementation of CS224N theory in PyTorch💓
